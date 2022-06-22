@@ -1,7 +1,7 @@
 # LGMVIP task-2
 Task 2: Create a React App
 
-INTERMEDIATE LEVEL TASK
+BASIC LEVEL TASK
 
 Create a web application using create-react-app
 
